@@ -2,9 +2,9 @@
 
 ## Author Details
 
-**Name:** Pranshu Gupta
-**Registration Number:** 25BAI11057
-**Course:** B.Tech CSE (AI/ML)
+**Name:** Pranshu Gupta <br>
+**Registration Number:** 25BAI11057 <br>
+**Course:** B.Tech CSE (AI/ML) 
 
 ---
 
